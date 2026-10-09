@@ -1,0 +1,6 @@
+text,created_date,rubrics
+"Python helps teams build readable web services.",2024-02-01 09:00:00,"['python', 'backend']"
+"PostgreSQL stores document fields and creation dates.",2024-02-02 10:30:00,"['database', 'storage']"
+"Elasticsearch indexes text for full-text search.",2024-02-03 12:00:00,"['search', 'indexing']"
+"Async clients keep network operations non-blocking.",2024-02-04 14:15:00,"['async', 'architecture']"
+"Tests verify search results and document deletion.",2024-02-05 16:45:00,"['testing', 'quality']"
